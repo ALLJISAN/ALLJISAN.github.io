@@ -1,10 +1,10 @@
 # Site settings
 title: BY Blog
-SEOTitle: ALLJISAN | BY Blog
+SEOTitle: ALLJISAN |  Blog
 header-img: img/post-bg-desk.jpg
 email: 873839260@qq.com
 description: "Every failure is leading towards success."
-keyword: "BY, BY Blog, ALLJISAN的博客, ALLJISAN, 邱柏荧, iOS, Apple, iPhone"
+keyword: "BY, BY Blog, ALLJISAN的博客, ALLJISAN, iOS, Apple, iPhone"
 url: "https://alljisan.github.io/"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/ALLJISAN/ALLJISAN.github.io.git" # you code repository
