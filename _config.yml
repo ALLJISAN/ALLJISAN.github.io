@@ -62,8 +62,8 @@ kramdown:
 # Gitalk
 gitalk:
   enable: true    #是否开启Gitalk评论
-  clientID: f2c84e7629bb1446c1a4   #生成的clientID
-  clientSecret: ca6d6139d1e1b8c43f8b2e19492ddcac8b322d0d  #同上
+  clientID: e582595c566ee0b62955   #生成的clientID
+  clientSecret: 96e8aaa872721f61d24cddc81ce2dc50e6ec325a  #同上
   repo: ALLJISAN.github.io    #仓库名称
   owner: ALLJISAN    #github用户名
   admin: ALLJISAN
